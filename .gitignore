@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Adding config.py file.
 api_keys.py
+=======
+api_keys.py
+
+>>>>>>> 8ae8a7a21aa0dc5c73f0708a225867312fb54270
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
